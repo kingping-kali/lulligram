@@ -1,0 +1,8 @@
+{
+  "name": "lulligram",
+  "description": "A social marketplace combining the best of Instagram-style profiles, stories, and seamless buying/selling interactions with AI-powered listing tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
